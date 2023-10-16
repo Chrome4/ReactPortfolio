@@ -3,7 +3,7 @@ export default function footer() {
     <footer>
       <h1>Made by Kyle</h1>
       <img src="" alt=""></img>
-      <a href="">Github</a>
+      <a href="https://github.com/Chrome4">Github</a>
     </footer>
   );
 }

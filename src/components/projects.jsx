@@ -4,19 +4,19 @@ export default function Projects() {
       <ul className="test">
         <li>
           <img src="\src\assets\placeholder.png" alt="Placeholder image"></img>
-          <a href="">Note Taker</a>
+          <a href="https://github.com/Chrome4/challenge11-">Note Taker</a>
         </li>
         <li>
           <img src="\src\assets\placeholder.png" alt="Placeholder image"></img>
-          <a href="">Weather App</a>
+          <a href="https://github.com/Chrome4/Weather-Dashboard">Weather App</a>
         </li>
         <li>
           <img src="\src\assets\placeholder.png" alt="Placeholder image"></img>
-          <a href="">React</a>
+          <a href="https://github.com/Chrome4/SocialNetwork">React</a>
         </li>
         <li>
           <img src="\src\assets\placeholder.png" alt="Placeholder image"></img>
-          <a href="">Other</a>
+          <a href="https://github.com/Chrome4/E-commerce">Other</a>
         </li>
       </ul>
     </div>
